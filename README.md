@@ -3,8 +3,7 @@
 🎓 Master’s student in Business Analytics at UMass Boston  
 🌱 Passionate about sustainability, social impact, and turning data into stories that drive change
 
-I specialize in using tools like Python, Tableau, and Excel to analyze data, create visualizations, and build awareness around critical issues like food waste and community well-being.
-
+I specialize in using Python, Tableau, and Excel to explore data, find insights, and create visualizations that tell stories and bring awareness to real-world challenges.
 ---
 
 ## 🛠 Technical Skills
