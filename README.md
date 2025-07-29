@@ -44,9 +44,10 @@ Researched the role of automation and AI in improving project outcomes. Case stu
 
 ## 📁 Portfolio & Work Samples
 
-- 🎨 [Sustainability Posters (Canva)](https://www.canva.com/design/DAGW2oRhUtI/3ymIbSSClm4H-vfKZDQJRQ/edit)
-- 🥉 [CSR Competition – 3rd Place Presentation](https://drive.google.com/file/d/1aXwwtrHZGJNSPian4hDHDkl23uBDbdmG/view)
-- 📝 [AI/ML in Project Management – Research Paper](https://drive.google.com/file/d/1ZcriocDB1w7NWxhHwLmSydy_UFkiEsvL/view)
+- 🎨 [Sustainability Posters (Canva)](https://drive.google.com/drive/folders/1ZcriocDB1w7NWxhHwLmSydy_UFkiEsvL?usp=drive_link)
+- 🥉 [CSR Competition – 3rd Place Presentation](https://www.canva.com/design/DAGW2oRhUtI/3ymIbSSClm4H-vfKZDQJRQ/edit)
+- 📝 [AI/ML in Project Management – Research Paper](https://drive.google.com/file/d/1aXwwtrHZGJNSPian4hDHDkl23uBDbdmG/view
+)
 
 ---
 
