@@ -12,8 +12,10 @@ I specialize in using Python, Tableau, and Excel to explore data, uncover insigh
 
 
 ### 💻 Languages & Libraries  
-![Python] (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-  `pandas` • `numpy` • `matplotlib` • `seaborn` • `scikit-learn` • `jupyter`
+
+  ### 🐍 Python Libraries & Tools  
+`pandas` • `numpy` • `matplotlib` • `seaborn` • `scikit-learn` • `jupyter`
+
 
 
 ### Data & Visualization Tools  
