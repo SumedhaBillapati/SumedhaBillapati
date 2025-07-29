@@ -14,6 +14,11 @@ I specialize in using Python, Tableau, and Excel to explore data, uncover insigh
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 `pandas`, `scikit-learn`, `matplotlib`
 
+### 💻 Languages & Libraries  
+**Python**  
+`pandas` • `numpy` • `matplotlib` • `seaborn` • `scikit-learn` • `jupyter`
+
+
 ### Data & Visualization Tools  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
