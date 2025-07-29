@@ -14,7 +14,8 @@ I specialize in using tools like Python, Tableau, and Excel to analyze data, cre
 `pandas`, `scikit-learn`, `matplotlib`
 
 ### Data & Visualization Tools  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Tableau](<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Logo" width="40" height="40"/>
+)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Data & Workflow  
@@ -25,7 +26,7 @@ I specialize in using tools like Python, Tableau, and Excel to analyze data, cre
 ### Others  
 LeanPath Dashboards • NetSuite OpenAir • Canva
 
-
+---
 
 ## 📊 Projects
 
@@ -40,7 +41,7 @@ Group project analyzing suicide rates by age group and socio-economic trends. Vi
 Researched the role of automation and AI in improving project outcomes. Case studies included Google’s Project Aristotle & Boeing 737 MAX.  
 📄 [Read Full Paper](https://drive.google.com/file/d/1ZcriocDB1w7NWxhHwLmSydy_UFkiEsvL/view)
 
-
+---
 
 ## 📁 Portfolio & Work Samples
 
@@ -48,7 +49,7 @@ Researched the role of automation and AI in improving project outcomes. Case stu
 - 🥉 [CSR Competition – 3rd Place Presentation](https://drive.google.com/file/d/1aXwwtrHZGJNSPian4hDHDkl23uBDbdmG/view)
 - 📝 [AI/ML in Project Management – Research Paper](https://drive.google.com/file/d/1ZcriocDB1w7NWxhHwLmSydy_UFkiEsvL/view)
 
-
+---
 
 ## 🌐 Let’s Connect
 
