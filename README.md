@@ -14,7 +14,8 @@ I specialize in using tools like Python, Tableau, and Excel to analyze data, cre
 `pandas`, `scikit-learn`, `matplotlib`
 
 ### Data & Visualization Tools  
-![Tableau](https://www.tableau.com/)
+![Tableau](<img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" alt="Tableau" width="120"/>
+)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Data & Workflow  
