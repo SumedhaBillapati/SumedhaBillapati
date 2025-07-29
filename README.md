@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Saisumedha Billapati
 
 🎓 Master’s student in Business Analytics at UMass Boston  
-🌱 Passionate about sustainability, social impact, and turning data into stories that drive change
+🌱 Passionate about sustainability, social impact, and turning data into stories that drive changes
 
-I specialize in using Python, Tableau, and Excel to explore data, find insights, and create visualizations that tell stories and bring awareness to real-world challenges.
+I specialize in using Python, Tableau, and Excel to explore data, uncover insights, and create visualizations that tell stories and raise awareness to real-world challenges.
+
+
 ---
 
 ## 🛠 Technical Skills
