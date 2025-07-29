@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saisumedha Billapati</h1>
-- 📫 How to reach me **s.billapati001@umb.edu**
+- 📫 How to reach me s.billapati001@umb.edu
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
