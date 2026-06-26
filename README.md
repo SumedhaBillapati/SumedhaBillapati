@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sumedha 👋
+# Hi, I'm Saisumedha 👋
 ### I ask *why* five times before I trust the data once.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sumedha-billapati-4765201a0/)
