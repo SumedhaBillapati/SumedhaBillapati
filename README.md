@@ -13,7 +13,6 @@ I'm an MS Business Analytics grad from UMass Boston. My focus is simple: underst
 Curiosity drives my work. Impact gives it direction. 🎯
 I'm drawn to nonprofits and mission-driven organizations because I believe the most important problems deserve the sharpest analysis.
 
----
 
 ## The Toolkit
 
@@ -26,7 +25,7 @@ I'm drawn to nonprofits and mission-driven organizations because I believe the m
 **Operations & Project Tools**
 `Jira` · `Trello` · `Asana` · `NetSuite OpenAir` · `Google Workspace` · 
 
----
+
 
 <div align="center">
 
