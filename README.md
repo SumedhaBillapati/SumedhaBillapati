@@ -26,7 +26,6 @@ I'm drawn to nonprofits and mission-driven organizations because I believe the m
 `Jira` · `Trello` · `Asana` · `NetSuite OpenAir` · `Google Workspace` · 
 
 
-
 <div align="center">
 
 *I'm looking for roles in business analysis, operations, PMO, or HR analytics,*
