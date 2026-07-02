@@ -8,9 +8,9 @@
 
 I'm passionate about Analytics, Business Insights, and Market Research; because in data, there's always a story waiting to be told. 
 
-I'm an MS Business Analytics grad from UMass Boston. My focus is simple: understand the WHY 🤔, create meaningful charts, and turn insights into decisions that actually drive change. I help teams bridge the gap between data and business outcomes, making sure technical and non-technical people see the same story.
+I'm an MS Business Analytics grad from UMass Boston. My focus is simple: understand the WHY, create meaningful charts, and turn insights into decisions that actually drive change. I help teams bridge the gap between data and business outcomes, making sure technical and non-technical people see the same story.
 
-Curiosity drives my work. Impact gives it direction. 🎯
+Curiosity drives my work. Impact gives it direction.
 I'm drawn to nonprofits and mission-driven organizations because I believe the most important problems deserve the sharpest analysis.
 
 
