@@ -28,7 +28,7 @@ I'm drawn to nonprofits and mission-driven organizations because I believe the m
 
 <div align="center">
 
-*I'm looking for roles in Business analysis, operations & PMO,* at organizations where the mission matters as much as the metrics.*
+*I'm looking for roles in Business analysis, operations & PMO,* at organizations where the mission matters as much as the metrics.
 
 **Let's talk:** billapati.2001@gmail.com
 
